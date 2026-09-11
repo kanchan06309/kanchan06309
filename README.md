@@ -11,8 +11,7 @@ Currently, I'm strengthening my **Data Structures & Algorithms** skills and expl
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, Java, SQL
-* **Backend & APIs:** FastAPI, Flask, REST APIs
-* **Databases:** MySQL, PostgreSQL
+* **Backend & Databases:** FastAPI, Flask, REST APIs, MySQL, PostgreSQL
 * **Data & Analytics:** Data Analysis, Pandas, NumPy, Data Visualization
 * **AI/ML:** Machine Learning, GenAI, Model Development, Data Preprocessing
 * **DevOps & Deployment:** Docker, Git, GitHub, Render, Vercel
