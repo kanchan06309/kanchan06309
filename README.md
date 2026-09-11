@@ -22,7 +22,7 @@ Currently, I'm strengthening my **Data Structures & Algorithms** skills and expl
 
 ### 💻 My Profiles
 
-* 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/kanchan-uikey-13879435a)
+* 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/kanchan-uikey-13879435a)
 * 🟨 **LeetCode:** [My Profile](https://leetcode.com/u/kanchan_06309/)
 * 🐙 **GitHub:** [My Profile](https://github.com/kanchan06309)
 
