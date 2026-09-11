@@ -14,8 +14,7 @@ Currently, I'm strengthening my **Data Structures & Algorithms** skills and expl
 * **Backend & APIs:** FastAPI, Flask, REST APIs
 * **Databases:** MySQL, PostgreSQL
 * **Data & Analytics:** Data Analysis, Pandas, NumPy, Data Visualization
-* **Machine Learning:** Machine Learning, Model Development, Data Preprocessing
-* **Generative AI:** GenAI, LLMs, Prompt Engineering
+* **AI/ML:** Machine Learning, GenAI, Model Development, Data Preprocessing
 * **DevOps & Deployment:** Docker, Git, GitHub, Render, Vercel
 * **Core CS:** Data Structures & Algorithms, OOP, DBMS
 
@@ -23,9 +22,9 @@ Currently, I'm strengthening my **Data Structures & Algorithms** skills and expl
 
 ### 💻 My Profiles
 
-* 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/)
-* 🟨 **LeetCode:** [My Profile](https://leetcode.com/u/your-username/)
-* 🐙 **GitHub:** [My Profile](https://github.com/your-username)
+* 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/kanchan-uikey-13879435a)
+* 🟨 **LeetCode:** [My Profile](https://leetcode.com/u/kanchan_06309/)
+* 🐙 **GitHub:** [My Profile](https://github.com/kanchan06309)
 
 
 ⭐ **Always learning. Always building.**
