@@ -1,29 +1,69 @@
+<div align="center">
+
 # 👋 Hi, I'm Kanchan
 
-### Software Developer | Computer Science Student | Problem Solver
+### 💻 Software Developer | Computer Science Student
 
-I'm a Computer Science student passionate about **software development, backend engineering, and problem solving**. I enjoy building practical applications and learning how to design reliable and scalable software.
+**Code • Learn • Build • Grow**
 
-Currently, I'm strengthening my **Data Structures & Algorithms** skills and exploring **backend and full-stack development** through hands-on projects.
+<br>
+
+<a href="https://github.com/kanchan06309">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kanchan-uikey-13879435a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/kanchan_06309/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="mailto:kanchan.uikey455@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 👩‍💻 About Me
 
-* **Languages:** Python, Java, SQL
-* **Backend & Databases:** FastAPI, Flask, REST APIs, MySQL, PostgreSQL
-* **Data & Analytics:** Data Analysis, Pandas, NumPy, Data Visualization
-* **AI/ML:** Machine Learning, GenAI, Model Development, Data Preprocessing
-* **DevOps & Deployment:** Docker, Git, GitHub, Render, Vercel
-* **Core CS:** Data Structures & Algorithms, OOP, DBMS
+I'm a Computer Science student interested in software development, backend engineering, and problem solving. I enjoy building practical applications and learning how to design reliable and scalable software.
+
+I'm currently strengthening my Data Structures & Algorithms skills while building practical projects and exploring backend development.
 
 ---
 
-### 💻 My Profiles
+## 🛠️ Tech Stack & Tools
 
-* 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/kanchan-uikey-13879435a)
-* 🟨 **LeetCode:** [My Profile](https://leetcode.com/u/kanchan_06309/)
-* 🐙 **GitHub:** [My Profile](https://github.com/kanchan06309)
+### 💻 Programming
 
+`Python` `Java` `SQL`
 
-⭐ **Always learning. Always building.**
+### ⚙️ Backend & Databases
+
+`FastAPI` `Flask` `REST APIs` `MySQL` `PostgreSQL`
+
+### 📊 Data & AI
+
+`Data Analysis` `Machine Learning` `Generative AI`
+
+### 🚀 DevOps & Deployment
+
+`Docker` `Git` `GitHub` `Render` `Vercel`
+
+### 📊 Core CS
+
+`Data Structures & Algorithms` `OOP` `DBMS`
+
+---
+
+<div align="center">
+
+### 🌱 Always learning. Always building.
+
+**Let's build something amazing together.** 🚀
+
+</div>
