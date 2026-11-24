@@ -38,21 +38,15 @@ I'm currently strengthening my Data Structures & Algorithms skills while buildin
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming
+### 💻 Programming                                                               ### ⚙️ Backend & Databases
 
-`Python` `Java` `SQL`
+`Python` `Java` `SQL`                                                             `FastAPI` `Flask` `REST APIs` `MySQL` `PostgreSQL`
 
-### ⚙️ Backend & Databases
 
-`FastAPI` `Flask` `REST APIs` `MySQL` `PostgreSQL`
+### 📊 Data & AI                                                                 ### 🚀 DevOps & Deployment
 
-### 📊 Data & AI
+`Data Analysis` `Machine Learning` `Generative AI`                                `Docker` `Git` `GitHub` `Render` `Vercel`
 
-`Data Analysis` `Machine Learning` `Generative AI`
-
-### 🚀 DevOps & Deployment
-
-`Docker` `Git` `GitHub` `Render` `Vercel`
 
 ### 📊 Core CS
 
